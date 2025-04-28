@@ -18,7 +18,7 @@ food_calorie_dict = {
     'salad': 120,
     'banana': 89,
     'apple': 52,
-    'granny_smith': 95,
+    'granny_smith': 52,
     'orange': 62,
     'carrot': 41,
     'broccoli': 55,
